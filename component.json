@@ -1,0 +1,14 @@
+{
+  "name": "browser-type",
+  "repo": "brighthas/browser-type",
+  "description": "get browser type",
+  "version": "0.0.1",
+  "keywords": ["browser","type"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

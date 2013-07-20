@@ -1,0 +1,19 @@
+{
+  "name": "browser-type",
+  "version": "0.0.1",
+  "description": "get browser type and version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brighthas/browser-type.git"
+  },
+  "keywords": [
+    "browser",
+    "type"
+  ],
+  "author": "brighthas",
+  "license": "MIT"
+}
