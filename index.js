@@ -1,6 +1,6 @@
 exports.uaMatch = uaMatch;
 
-if(window){
+if(typeof window != "undefined"){
     exports.browser = uaMatch(navigator.userAgent);
 }
 
